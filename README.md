@@ -4,10 +4,6 @@
 traditional java "rock-papper-scissor" game built with javascript
 
 
-## Demo
-
-Insert gif or link to demo
-
 
 ## Screenshots
 
