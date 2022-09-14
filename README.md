@@ -3,7 +3,9 @@
 
 traditional java "rock-papper-scissor" game built with javascript
 
+## Demo
 
+[Click Here](https://puturangga21.github.io/suwit-jawa/)
 
 ## Screenshots
 
