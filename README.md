@@ -1,7 +1,7 @@
 
 # Rock-Papper-Scissor Java
 
-traditional java "rock-papper-scissor" game built with javascript
+traditional java "rock-papper-scissor" game build with javascript
 
 ## Demo
 
